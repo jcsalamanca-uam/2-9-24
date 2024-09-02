@@ -1,0 +1,17 @@
+C:\Users\labc202\Documents\2 9 24\Sesion5_1\Sesion5_1\bin\Debug\net6.0-windows\Sesion5_1.exe
+C:\Users\labc202\Documents\2 9 24\Sesion5_1\Sesion5_1\bin\Debug\net6.0-windows\Sesion5_1.deps.json
+C:\Users\labc202\Documents\2 9 24\Sesion5_1\Sesion5_1\bin\Debug\net6.0-windows\Sesion5_1.runtimeconfig.json
+C:\Users\labc202\Documents\2 9 24\Sesion5_1\Sesion5_1\bin\Debug\net6.0-windows\Sesion5_1.dll
+C:\Users\labc202\Documents\2 9 24\Sesion5_1\Sesion5_1\bin\Debug\net6.0-windows\Sesion5_1.pdb
+C:\Users\labc202\Documents\2 9 24\Sesion5_1\Sesion5_1\obj\Debug\net6.0-windows\Sesion5_1.csproj.AssemblyReference.cache
+C:\Users\labc202\Documents\2 9 24\Sesion5_1\Sesion5_1\obj\Debug\net6.0-windows\Sesion5_1.Form1.resources
+C:\Users\labc202\Documents\2 9 24\Sesion5_1\Sesion5_1\obj\Debug\net6.0-windows\Sesion5_1.csproj.GenerateResource.cache
+C:\Users\labc202\Documents\2 9 24\Sesion5_1\Sesion5_1\obj\Debug\net6.0-windows\Sesion5_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labc202\Documents\2 9 24\Sesion5_1\Sesion5_1\obj\Debug\net6.0-windows\Sesion5_1.AssemblyInfoInputs.cache
+C:\Users\labc202\Documents\2 9 24\Sesion5_1\Sesion5_1\obj\Debug\net6.0-windows\Sesion5_1.AssemblyInfo.cs
+C:\Users\labc202\Documents\2 9 24\Sesion5_1\Sesion5_1\obj\Debug\net6.0-windows\Sesion5_1.csproj.CoreCompileInputs.cache
+C:\Users\labc202\Documents\2 9 24\Sesion5_1\Sesion5_1\obj\Debug\net6.0-windows\Sesion5_1.dll
+C:\Users\labc202\Documents\2 9 24\Sesion5_1\Sesion5_1\obj\Debug\net6.0-windows\refint\Sesion5_1.dll
+C:\Users\labc202\Documents\2 9 24\Sesion5_1\Sesion5_1\obj\Debug\net6.0-windows\Sesion5_1.pdb
+C:\Users\labc202\Documents\2 9 24\Sesion5_1\Sesion5_1\obj\Debug\net6.0-windows\Sesion5_1.genruntimeconfig.cache
+C:\Users\labc202\Documents\2 9 24\Sesion5_1\Sesion5_1\obj\Debug\net6.0-windows\ref\Sesion5_1.dll
